@@ -1,0 +1,1 @@
+This demo is paired with the blog here - https://neuw.medium.com/spring-boot-load-config-from-aws-s3-etc-fbc64840db8a?source=friends_link&sk=9c05868578f267bc9bfe117c9939010b
